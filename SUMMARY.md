@@ -2,7 +2,7 @@
 
 * [MrXir's Home Page](README.md)
 * [ToDo List](todo-list.md)
-* [Resume](cv.md)
+* [Resume](resume.md)
 
 ## Mathemetics in ML & DL
 
