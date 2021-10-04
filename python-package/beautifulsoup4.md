@@ -6,7 +6,9 @@ description: >-
 
 # beautifulsoup4
 
-{% page-ref page="beautifulsoup4.md" %}
+{% hint style="info" %}
+[官网直链](https://beautifulsoup.readthedocs.io/zh_CN/v4.4.0/#)
+{% endhint %}
 
 
 
