@@ -4,6 +4,11 @@
 * [ToDo List](todo-list.md)
 * [Resume](resume.md)
 
+## Python Package
+
+* [re](python-package/re.md)
+* [beautifulsoup4](python-package/beautifulsoup4.md)
+
 ## Mathemetics in ML & DL
 
 * [index](mathemetics-in-ml-and-dl/index.md)
@@ -27,8 +32,4 @@
 ## Paper Comprehension
 
 * [index](paper-comprehension/index.md)
-
-## Python Package
-
-* [beautifulsoup4](python-package/beautifulsoup4.md)
 
